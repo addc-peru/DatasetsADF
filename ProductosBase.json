@@ -1,0 +1,378 @@
+[
+    {
+        "Producto Code": "HL-U509",
+        "Producto": "Sport 100 Helmet",
+        "Stock": 40,
+        "SubcategoriaID": 1,
+        "Subcategoria": "Casco",
+        "Categoria": "Accesorio"
+    },
+    {
+        "Producto Code": "CA-1098",
+        "Producto": "AWC Logo Cap",
+        "Stock": 54,
+        "SubcategoriaID": 2,
+        "Subcategoria": "Gorra",
+        "Categoria": "Prenda"
+    },
+    {
+        "Producto Code": "LJ-0192",
+        "Producto": "Long Sleeve Logo Jersey",
+        "Stock": 37,
+        "SubcategoriaID": 3,
+        "Subcategoria": "Jersey",
+        "Categoria": "Prenda"
+    },
+    {
+        "Producto Code": "BK-R93R",
+        "Producto": "Road 150 Red",
+        "Stock": 71,
+        "SubcategoriaID": 4,
+        "Subcategoria": "Bicicleta de carretera",
+        "Categoria": "Bicicleta"
+    },
+    {
+        "Producto Code": "BK-R50R",
+        "Producto": "Road 650 Red",
+        "Stock": 85,
+        "SubcategoriaID": 4,
+        "Subcategoria": "Bicicleta de carretera",
+        "Categoria": "Bicicleta"
+    },
+    {
+        "Producto Code": "BK-R50B",
+        "Producto": "Road 650 Black",
+        "Stock": 117,
+        "SubcategoriaID": 4,
+        "Subcategoria": "Bicicleta de carretera",
+        "Categoria": "Bicicleta"
+    },
+    {
+        "Producto Code": "BK-M82S",
+        "Producto": "Mountain 100 Silver",
+        "Stock": 115,
+        "SubcategoriaID": 5,
+        "Subcategoria": "Bicicleta de Montaña",
+        "Categoria": "Bicicleta"
+    },
+    {
+        "Producto Code": "BK-M82B",
+        "Producto": "Mountain 100 Black",
+        "Stock": 100,
+        "SubcategoriaID": 5,
+        "Subcategoria": "Bicicleta de Montaña",
+        "Categoria": "Bicicleta"
+    },
+    {
+        "Producto Code": "BK-M68S",
+        "Producto": "Mountain 200 Silver",
+        "Stock": 50,
+        "SubcategoriaID": 5,
+        "Subcategoria": "Bicicleta de Montaña",
+        "Categoria": "Bicicleta"
+    },
+    {
+        "Producto Code": "BK-M68B",
+        "Producto": "Mountain 200 Black",
+        "Stock": 53,
+        "SubcategoriaID": 5,
+        "Subcategoria": "Bicicleta de Montaña",
+        "Categoria": "Bicicleta"
+    },
+    {
+        "Producto Code": "BK-R89R",
+        "Producto": "Road 250 Red",
+        "Stock": 41,
+        "SubcategoriaID": 4,
+        "Subcategoria": "Bicicleta de carretera",
+        "Categoria": "Bicicleta"
+    },
+    {
+        "Producto Code": "BK-R89B",
+        "Producto": "Road 250 Black",
+        "Stock": 83,
+        "SubcategoriaID": 4,
+        "Subcategoria": "Bicicleta de carretera",
+        "Categoria": "Bicicleta"
+    },
+    {
+        "Producto Code": "BK-R64Y",
+        "Producto": "Road 550 W Yellow",
+        "Stock": 44,
+        "SubcategoriaID": 4,
+        "Subcategoria": "Bicicleta de carretera",
+        "Categoria": "Bicicleta"
+    },
+    {
+        "Producto Code": "GL-H102",
+        "Producto": "Half Finger Gloves",
+        "Stock": 64,
+        "SubcategoriaID": 6,
+        "Subcategoria": "Guantes",
+        "Categoria": "Prenda"
+    },
+    {
+        "Producto Code": "VE-C304",
+        "Producto": "Classic Vest",
+        "Stock": 119,
+        "SubcategoriaID": 7,
+        "Subcategoria": "Camiseta",
+        "Categoria": "Prenda"
+    },
+    {
+        "Producto Code": "SH-W890",
+        "Producto": "Womens Mountain Shorts",
+        "Stock": 63,
+        "SubcategoriaID": 8,
+        "Subcategoria": "Pantalones cortos",
+        "Categoria": "Prenda"
+    },
+    {
+        "Producto Code": "WB-H098",
+        "Producto": "Water Bottle 30 oz.",
+        "Stock": 77,
+        "SubcategoriaID": 9,
+        "Subcategoria": "Portabotellas y botella",
+        "Categoria": "Accesorio"
+    },
+    {
+        "Producto Code": "BC-M005",
+        "Producto": "Mountain Bottle Cage",
+        "Stock": 80,
+        "SubcategoriaID": 9,
+        "Subcategoria": "Portabotellas y botella",
+        "Categoria": "Accesorio"
+    },
+    {
+        "Producto Code": "BC-R205",
+        "Producto": "Road Bottle Cage",
+        "Stock": 22,
+        "SubcategoriaID": 9,
+        "Subcategoria": "Portabotellas y botella",
+        "Categoria": "Accesorio"
+    },
+    {
+        "Producto Code": "PK-7098",
+        "Producto": "Patch Kit/8 Patches",
+        "Stock": 47,
+        "SubcategoriaID": 10,
+        "Subcategoria": "Cubierta y Cámara",
+        "Categoria": "Accesorio"
+    },
+    {
+        "Producto Code": "SO-R809",
+        "Producto": "Racing Socks",
+        "Stock": 44,
+        "SubcategoriaID": 11,
+        "Subcategoria": "Calcetines",
+        "Categoria": "Prenda"
+    },
+    {
+        "Producto Code": "RA-H123",
+        "Producto": "Hitch Rack 4 Bike",
+        "Stock": 48,
+        "SubcategoriaID": 12,
+        "Subcategoria": "Portabicicletas",
+        "Categoria": "Accesorio"
+    },
+    {
+        "Producto Code": "CL-9009",
+        "Producto": "Bike Wash Dissolver",
+        "Stock": 20,
+        "SubcategoriaID": 13,
+        "Subcategoria": "Limpiador",
+        "Categoria": "Accesorio"
+    },
+    {
+        "Producto Code": "FE-6654",
+        "Producto": "Fender Set Mountain",
+        "Stock": 79,
+        "SubcategoriaID": 14,
+        "Subcategoria": "Guardabarros",
+        "Categoria": "Accesorio"
+    },
+    {
+        "Producto Code": "ST-1401",
+        "Producto": "All Purpose Bike Stand",
+        "Stock": 103,
+        "SubcategoriaID": 15,
+        "Subcategoria": "Soporte para bicicletas",
+        "Categoria": "Accesorio"
+    },
+    {
+        "Producto Code": "HY-1023",
+        "Producto": "Hydration Pack 70 oz.",
+        "Stock": 68,
+        "SubcategoriaID": 16,
+        "Subcategoria": "Sistema de hidrataci�n",
+        "Categoria": "Accesorio"
+    },
+    {
+        "Producto Code": "SJ-0194",
+        "Producto": "Short Sleeve Classic Jersey",
+        "Stock": 21,
+        "SubcategoriaID": 3,
+        "Subcategoria": "Jersey",
+        "Categoria": "Prenda"
+    },
+    {
+        "Producto Code": "TT-M928",
+        "Producto": "Mountain Tire Tube",
+        "Stock": 40,
+        "SubcategoriaID": 10,
+        "Subcategoria": "Cubierta y Cámara",
+        "Categoria": "Accesorio"
+    },
+    {
+        "Producto Code": "TT-R982",
+        "Producto": "Road Tire Tube",
+        "Stock": 46,
+        "SubcategoriaID": 10,
+        "Subcategoria": "Cubierta y Cámara",
+        "Categoria": "Accesorio"
+    },
+    {
+        "Producto Code": "TT-T092",
+        "Producto": "Touring Tire Tube",
+        "Stock": 96,
+        "SubcategoriaID": 10,
+        "Subcategoria": "Cubierta y Cámara",
+        "Categoria": "Accesorio"
+    },
+    {
+        "Producto Code": "TI-M267",
+        "Producto": "LL Mountain Tire",
+        "Stock": 47,
+        "SubcategoriaID": 10,
+        "Subcategoria": "Cubierta y Cámara",
+        "Categoria": "Accesorio"
+    },
+    {
+        "Producto Code": "TI-M602",
+        "Producto": "ML Mountain Tire",
+        "Stock": 92,
+        "SubcategoriaID": 10,
+        "Subcategoria": "Cubierta y Cámara",
+        "Categoria": "Accesorio"
+    },
+    {
+        "Producto Code": "TI-M823",
+        "Producto": "HL Mountain Tire",
+        "Stock": 65,
+        "SubcategoriaID": 10,
+        "Subcategoria": "Cubierta y Cámara",
+        "Categoria": "Accesorio"
+    },
+    {
+        "Producto Code": "TI-R092",
+        "Producto": "LL Road Tire",
+        "Stock": 18,
+        "SubcategoriaID": 10,
+        "Subcategoria": "Cubierta y Cámara",
+        "Categoria": "Accesorio"
+    },
+    {
+        "Producto Code": "TI-R628",
+        "Producto": "ML Road Tire",
+        "Stock": 68,
+        "SubcategoriaID": 10,
+        "Subcategoria": "Cubierta y Cámara",
+        "Categoria": "Accesorio"
+    },
+    {
+        "Producto Code": "TI-R982",
+        "Producto": "HL Road Tire",
+        "Stock": 90,
+        "SubcategoriaID": 10,
+        "Subcategoria": "Cubierta y Cámara",
+        "Categoria": "Accesorio"
+    },
+    {
+        "Producto Code": "TI-T723",
+        "Producto": "Touring Tire",
+        "Stock": 24,
+        "SubcategoriaID": 10,
+        "Subcategoria": "Cubierta y Cámara",
+        "Categoria": "Accesorio"
+    },
+    {
+        "Producto Code": "BK-T79Y",
+        "Producto": "Touring 1000 Yellow",
+        "Stock": 92,
+        "SubcategoriaID": 17,
+        "Subcategoria": "Bicicleta de paseo",
+        "Categoria": "Bicicleta"
+    },
+    {
+        "Producto Code": "BK-T18U",
+        "Producto": "Touring 3000 Blue",
+        "Stock": 81,
+        "SubcategoriaID": 17,
+        "Subcategoria": "Bicicleta de paseo",
+        "Categoria": "Bicicleta"
+    },
+    {
+        "Producto Code": "BK-T18Y",
+        "Producto": "Touring 3000 Yellow",
+        "Stock": 95,
+        "SubcategoriaID": 17,
+        "Subcategoria": "Bicicleta de paseo",
+        "Categoria": "Bicicleta"
+    },
+    {
+        "Producto Code": "BK-T79U",
+        "Producto": "Touring 1000 Blue",
+        "Stock": 69,
+        "SubcategoriaID": 17,
+        "Subcategoria": "Bicicleta de paseo",
+        "Categoria": "Bicicleta"
+    },
+    {
+        "Producto Code": "BK-T44U",
+        "Producto": "Touring 2000 Blue",
+        "Stock": 100,
+        "SubcategoriaID": 17,
+        "Subcategoria": "Bicicleta de paseo",
+        "Categoria": "Bicicleta"
+    },
+    {
+        "Producto Code": "BK-R79Y",
+        "Producto": "Road 350 W Yellow",
+        "Stock": 75,
+        "SubcategoriaID": 4,
+        "Subcategoria": "Bicicleta de carretera",
+        "Categoria": "Bicicleta"
+    },
+    {
+        "Producto Code": "BK-M38S",
+        "Producto": "Mountain 400 W Silver",
+        "Stock": 63,
+        "SubcategoriaID": 5,
+        "Subcategoria": "Bicicleta de Montaña",
+        "Categoria": "Bicicleta"
+    },
+    {
+        "Producto Code": "BK-M18S",
+        "Producto": "Mountain 500 Silver",
+        "Stock": 28,
+        "SubcategoriaID": 5,
+        "Subcategoria": "Bicicleta de Montaña",
+        "Categoria": "Bicicleta"
+    },
+    {
+        "Producto Code": "BK-M18B",
+        "Producto": "Mountain 500 Black",
+        "Stock": 119,
+        "SubcategoriaID": 5,
+        "Subcategoria": "Bicicleta de Montaña",
+        "Categoria": "Bicicleta"
+    },
+    {
+        "Producto Code": "BK-R19B",
+        "Producto": "Road 750 Black",
+        "Stock": 65,
+        "SubcategoriaID": 4,
+        "Subcategoria": "Bicicleta de carretera",
+        "Categoria": "Bicicleta"
+    }
+]
